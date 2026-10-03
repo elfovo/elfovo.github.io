@@ -1,0 +1,6 @@
+# A publier a la RACINE de l'hote : https://elfovo.github.io/robots.txt
+# (un robots.txt place dans /agent-chain-doctor/ n'est JAMAIS lu par un moteur.)
+User-agent: *
+Allow: /
+
+Sitemap: https://elfovo.github.io/agent-chain-doctor/sitemap.xml
